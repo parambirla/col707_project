@@ -1,9 +1,10 @@
 # col707_project code links
 
+Note -> It may take around 15-20 sec at first to open chatbot web link (because we have used free service for website deployment on render which is slow)
+
 Chatbot1  (Personality -> Openness to experience )
 Source code - https://github.com/parambirla/chatbot1 
 chatbot web link - https://chatbot1-oprb.onrender.com
-
 Chatbot 2 (Personality -> Conscientiousness ) 
 Source code - https://github.com/parambirla/chatbot2
 chatbot web link - https://chatbot2-1cna.onrender.com
